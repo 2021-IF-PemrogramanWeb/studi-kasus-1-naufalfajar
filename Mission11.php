@@ -55,8 +55,8 @@ echo '<table>
 				<th>Username</th>
 				<th>Email</th>
 				<th>Password</th>
-                <th>Name</th>
-                <th>Photo</th>
+        <th>Name</th>
+        <th>Photo</th>
 			</tr>
 		</thead>
 		<tbody>';

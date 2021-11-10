@@ -14,7 +14,7 @@
     <canvas id="myChart"></canvas>
     <?php
     // Koneksikan ke database
-    $kon = mysqli_connect("localhost","root","","pweb1");
+    $kon = mysqli_connect("localhost","id17881577_root","Database2021-","id17881577_pweb1");
     //Inisialisasi nilai variabel awal
     $nama_jurusan= "";
     $jumlah=null;
